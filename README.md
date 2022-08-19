@@ -8,5 +8,5 @@ If you want to re-randomize the voice lines, take the unchanged *t_voices.tbl* a
 ## Thing I might do (someday)
 - Make it so replacing the t_voices.mdl and adding the custom voice files is not necessary
 - Add an actual GUI to the injector
-##Special Thanks to
+## Special Thanks to
 https://gamehacking.academy/ - the site that has guides for learning basic game hacking, as well as a template for the injector used
